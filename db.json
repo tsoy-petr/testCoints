@@ -1,6 +1,6 @@
 { 
     "data": [
-        "1": {
+        {
             "id": 1, 
             "name": "Bitcoin", 
             "symbol": "BTC", 
@@ -21,7 +21,7 @@
             }, 
             "last_updated": 1558100855
         }, 
-        "1027": {
+        {
             "id": 1027, 
             "name": "Ethereum", 
             "symbol": "ETH", 
@@ -42,7 +42,7 @@
             }, 
             "last_updated": 1558100845
         }, 
-        "52": {
+         {
             "id": 52, 
             "name": "XRP", 
             "symbol": "XRP", 
