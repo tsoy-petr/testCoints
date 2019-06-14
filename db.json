@@ -62,5 +62,26 @@
                 }
             }, 
             "last_updated": 1558100883
+        }, 
+         {
+            "id": 56, 
+            "name": "FIG", 
+            "symbol": "FIG", 
+            "website_slug": "ripple", 
+            "rank": 55, 
+            "circulating_supply": 72133310721.0, 
+            "total_supply": 77771633428.0, 
+            "max_supply": 100000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 12.3771606301, 
+                    "volume_24h": 3910820760.81497, 
+                    "market_cap": 15891026021.0, 
+                    "percent_change_1h": 1.83, 
+                    "percent_change_24h": -9.2, 
+                    "percent_change_7d": 25.74
+                }
+            }, 
+            "last_updated": 1558100883
         }
 ]}
