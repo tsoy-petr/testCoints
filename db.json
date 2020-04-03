@@ -1,87 +1,23 @@
 { 
     "data": [
-        {
-            "id": 1, 
-            "name": "Bitcoin", 
-            "symbol": "BTC", 
-            "website_slug": "bitcoin", 
-            "rank": 1, 
-            "circulating_supply": 17705775.0, 
-            "total_supply": 17705775.0, 
-            "max_supply": 21000000.0, 
-            "quotes": {
-                "USD": {
-                    "price": 7179.04085626, 
-                    "volume_24h": 31398905589.1619, 
-                    "market_cap": 127110482117.0, 
-                    "percent_change_1h": 0.69, 
-                    "percent_change_24h": -9.19, 
-                    "percent_change_7d": 13.25
-                }
-            }, 
-            "last_updated": 1558100855
+        { 
+            "name": "Bitcoin1", 
+            "uuid": "BTC", 
+            "date": 1558100855 
         }, 
         {
-            "id": 1027, 
-            "name": "Ethereum", 
-            "symbol": "ETH", 
-            "website_slug": "ethereum", 
-            "rank": 2, 
-            "circulating_supply": 106105998.0, 
-            "total_supply": 106105998.0, 
-            "max_supply": null, 
-            "quotes": {
-                "USD": {
-                    "price": 238.221317971, 
-                    "volume_24h": 17322373519.2899, 
-                    "market_cap": 25276710792.0, 
-                    "percent_change_1h": 2.34, 
-                    "percent_change_24h": -6.1, 
-                    "percent_change_7d": 37.3
-                }
-            }, 
-            "last_updated": 1558100845
+            "name": "Bitcoin2", 
+            "uuid": "BTC", 
+            "date": 1558100856
         }, 
          {
-            "id": 52, 
-            "name": "XRP", 
-            "symbol": "XRP", 
-            "website_slug": "ripple", 
-            "rank": 3, 
-            "circulating_supply": 42133310721.0, 
-            "total_supply": 99991633428.0, 
-            "max_supply": 100000000000.0, 
-            "quotes": {
-                "USD": {
-                    "price": 0.3771606301, 
-                    "volume_24h": 3910820760.81497, 
-                    "market_cap": 15891026021.0, 
-                    "percent_change_1h": 1.83, 
-                    "percent_change_24h": -9.2, 
-                    "percent_change_7d": 25.74
-                }
-            }, 
-            "last_updated": 1558100883
+            "name": "Bitcoin3", 
+            "uuid": "BTC", 
+            "date": 1558100857
         }, 
          {
-            "id": 56, 
-            "name": "FIG", 
-            "symbol": "FIG", 
-            "website_slug": "ripple", 
-            "rank": 55, 
-            "circulating_supply": 72133310721.0, 
-            "total_supply": 77771633428.0, 
-            "max_supply": 100000000000.0, 
-            "quotes": {
-                "USD": {
-                    "price": 12.3771606301, 
-                    "volume_24h": 3910820760.81497, 
-                    "market_cap": 15891026021.0, 
-                    "percent_change_1h": 1.83, 
-                    "percent_change_24h": -9.2, 
-                    "percent_change_7d": 25.74
-                }
-            }, 
-            "last_updated": 1558100883
+            "name": "Bitcoin4", 
+            "uuid": "BTC", 
+            "date": 1558100858
         }
 ]}
