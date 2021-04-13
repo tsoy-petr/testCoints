@@ -1,4 +1,6 @@
 { 
+    "success": "true",
+    "message": "OK",
     "data": [
         { 
             "name": "Bitcoin1", 
